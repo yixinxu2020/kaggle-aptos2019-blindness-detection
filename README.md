@@ -1,5 +1,7 @@
-# kaggle-aptos2019-blindness-detection
-**11th** place solution for APTOS 2019 Blindness Detection on Kaggle (https://www.kaggle.com/c/aptos2019-blindness-detection).
+# Final Project -APTOS 2019 Blindness Detection
+Name：Yi Xinxu, Zuo Xiaohan, Su Xinen
+
+Student ID：0856152, 0616109, 0616215
 
 ## Solution
 ### Preprocessing
